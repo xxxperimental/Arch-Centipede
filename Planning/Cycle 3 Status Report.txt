@@ -1,0 +1,2 @@
+All creatures implemented, major bugs are fixed, there are 4 kinds of weapons apart from the regular blast.
+There is a victory and a defeat screen. Everything is animated.

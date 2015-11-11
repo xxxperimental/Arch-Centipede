@@ -1,0 +1,3 @@
+Max: So many issues with placement of the objects on the grid. There
+were a lot of errors with how monsters intersect with each other.
+Another major struggle was the movement of the centipede, however it is working fine now.

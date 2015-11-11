@@ -1,0 +1,5 @@
+November 4th, 6:14 AM: 
+    The hero is able to shoot mushrooms. Mushrooms die if 
+they are shot 4 times. The hero dies a collision with any
+Monster occurs. There is a centipede, however, it does not
+fully function yet.

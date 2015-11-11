@@ -1,0 +1,6 @@
+<<<<<<< .mine
+The level files are being read and the hero and the mushrooms are being placed.
+=======
+For Cycle 1, we brainstormed ideas and came up wtih 10-15 possible classes to use
+for our design. We then came up with a design represented in the UML diagram. We implemented
+some code as well.  >>>>>>> .r22
