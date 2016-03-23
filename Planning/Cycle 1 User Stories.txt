@@ -1,3 +1,0 @@
-Max: Finally figured out how to parse through files. Found and fixed 4 bugs with
-Buffalo. At first wanted to make a gif background, but i will have to wait with doing
-that, as it is not that simple.
